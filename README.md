@@ -58,7 +58,8 @@
  
  ![Логотип](https://github.com/Barbiklaya/proect/blob/main/Снимок%20экрана%202026-06-26%20173925.png) 
  
- 
+ [![Клик по картинке](Sadec42c6b07a5937920481dcf692ab0.jpg)
+
  
   
 
